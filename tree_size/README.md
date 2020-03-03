@@ -1,1 +1,0 @@
-Script qui sort les 10 dossiers les plus volumineux d'un répertoire.
